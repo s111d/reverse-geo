@@ -1,0 +1,3 @@
+AddHandler cgi-script .cgi .pl .py
+Options +ExecCGI 
+SetEnv PERL5LIB  /home/sid/PERL/lib:/home/sid/PERL/lib/perl5
